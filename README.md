@@ -81,7 +81,7 @@ fa_addonarticle    （內容表）
 reiichoro-article 不是 FastAdmin CMS 的「平替」，
 而是對「是否真的需要一套完整 CMS」的工程回答。
 
-```text
+```
 
 ### 「打破收費壁壘，重塑內容管理的自由意志」
 ### "Breaking Financial Barriers, Reshaping the Free Will of Content Management"
