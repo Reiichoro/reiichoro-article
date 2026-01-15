@@ -57,9 +57,31 @@ I developed **reiichoro-article** to provide a lighter, purer alternative. This 
 
 ```text
 fa_article
+所有內容集中於 單一文章表
+CRUD 路徑清晰 SQL 結構直觀
+
+非常適合：
+小型 CMS 內部管理後台
+
+業務型內容（說明、公告、幫助頁）
+👉 優勢：易維護 易二次開發 幾乎零理解成本
+
 🧱 FastAdmin 官方 CMS（主表 + 附表模型）
 fa_archives        （主表）
 fa_addonarticle    （內容表）
+
+類似 DEDECMS / 傳統門戶 CMS
+運行時為「雙表邏輯合一」
+支持多模型、多擴展字段
+
+👉 優勢：嚴謹 可擴展 適合長期內容運營
+👉 代價：結構複雜 維護成本高 對小項目屬於「過度設計」
+
+📌 總結一句話
+reiichoro-article 不是 FastAdmin CMS 的「平替」，
+而是對「是否真的需要一套完整 CMS」的工程回答。
+
+```text
 
 ### 「打破收費壁壘，重塑內容管理的自由意志」
 ### "Breaking Financial Barriers, Reshaping the Free Will of Content Management"
